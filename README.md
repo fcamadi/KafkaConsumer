@@ -1,2 +1,2 @@
 
-Kafka Producer example
+Kafka Consumer example
